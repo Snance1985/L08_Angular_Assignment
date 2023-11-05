@@ -1,0 +1,9 @@
+.homeMessage {
+    text-align: center;
+    background-color: #F896D8;
+    border-style: solid;
+    border-color: #564592;
+    border-radius: 15px;
+    color: #564592;
+    font-family: 'Martian Mono', monospace;
+}

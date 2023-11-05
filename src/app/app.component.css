@@ -1,0 +1,25 @@
+.navBar {
+    background-color: #EDF67D;
+    border-style: double;
+    border-radius: 10px;
+    border-color: black;
+    max-width: 100%;
+}
+
+.home{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cats {
+    text-align: center;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.dogs {
+    text-align:center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
